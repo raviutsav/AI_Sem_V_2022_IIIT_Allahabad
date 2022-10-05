@@ -1,0 +1,1 @@
+Find the performance metrics with the dataset given. Training and Testing dataset is segregated. Output Label is ‘Purchased’ (Binary Classification).  Use Bayesian Classifier.
